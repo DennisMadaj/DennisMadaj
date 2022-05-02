@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ennisMadaj
+- 👋 Hi, I’m DennisMadaj
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me dennis.madaj@gmail.com
